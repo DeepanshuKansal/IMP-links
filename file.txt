@@ -1,1 +1,1 @@
-Hi
+https://github.com/aquasecurity/trivy/issues/3660
